@@ -1,0 +1,16 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-d017d434.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/static/image/kampus.jpg": {
+    "file": "assets/kampus-d35789e0.jpg",
+    "src": "resources/css/static/image/kampus.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-c3828592.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
